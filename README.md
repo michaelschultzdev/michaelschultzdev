@@ -1,15 +1,15 @@
 ### Welcome, I'm Michael 👋
 
-<!-- [![Website](https://img.shields.io/website?label=jigsawcrypto.com&style=for-the-badge&url=https%3A%2F%2Fjigsawcrypto.com)](https://apexrush.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/thejigsawcrypto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthejigsawcrypto&screen_name=thejigsawcrypto)
+<!-- [![Website](https://img.shields.io/website?label=michaelschultz.dev&style=for-the-badge&url=https%3A%2F%2Fmichaelschultz.dev)](https://michaelschultz.dev/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/michaelschultzdev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmichaelschultzdev&screen_name=michaelschultzdev)
  -->
 ## I am a React / Blockchain Developer, Project Manager, Writer, and Investor.
 
 - 🌱 I’m currently expanding my experience with test-driven development
 - 👯 I’m looking to collaborate with other developers / creators
-- 🥅 2023 Goals: Contribute more to Open Source projects, Gain a larger following with quality content
+- 🥅 2024 Goals: Contribute more to Open Source projects, gain a larger following with quality content
 - 📫 How to reach me: Twitter DMs, email, or via contact form on my website
-- ⚡ Fun fact: I enjoy lox and cream cheese on bagels more than most foods
+- ⚡ Fun fact: I enjoy lox
 
 ### Connect with me:
 
