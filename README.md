@@ -43,9 +43,9 @@
 
 ---
 
-<img align="left" alt="Jigsaw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jigsawcrypto&count_private=true&show_icons=true&hide_border=true&theme=merko" />
+<img align="left" alt="Michael's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=michaelschultzdev&count_private=true&show_icons=true&hide_border=true&theme=merko" />
 
-[website]: https://jigsawcrypto.com/
-[twitter]: https://twitter.com/TheJigsawCrypto
-[youtube]: https://www.youtube.com/channel/UC6gwDeLCvNE5YVwwvJ99MHg
-[instagram]: https://instagram.com/jigsawcrypto
+[website]: https://michaelschultz.dev/
+[twitter]: https://twitter.com/michaelschultzdev
+[youtube]: https://www.youtube.com/
+[instagram]: https://instagram.com/
